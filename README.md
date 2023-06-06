@@ -1,5 +1,5 @@
 # Frontend Mentor - Results summary component
-[live preview](https://kbzcraft.github.io/result-summary-component/)
+### [Check Live preview](https://kbzcraft.github.io/result-summary-component/)
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
